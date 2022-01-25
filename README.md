@@ -1,6 +1,13 @@
 # baby_cry
 Detect and Classify Baby's Cry
 
+## Installation
+
+``` pip install -r requirements.txt ```
+
+## Training and improving the accuracy 
+
 for re-retrain the model, use `train_model.py`. 
 
-Or if you lazy enough, hust run the notebook and use your device microphone. 
+## Usage
+run the notebook and use your device microphone. 
