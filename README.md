@@ -12,5 +12,3 @@ for re-retrain the model, use `train_model.py`.
 ## Usage
 run the notebook and use your device microphone. 
 
-
-updated from new mac
